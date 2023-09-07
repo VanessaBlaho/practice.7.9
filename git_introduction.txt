@@ -1,0 +1,2 @@
+Committing
+Committing puts the staged files into the local repository and creates one commit - one snapshot of your project's code.
