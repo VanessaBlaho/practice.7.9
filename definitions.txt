@@ -1,0 +1,4 @@
+mkdir creates a folder
+touch creates a file
+ls shows the files in the folder you are in 
+pwd shows you where you currently are 

@@ -1,0 +1,3 @@
+tab control goes through the tabs in the browser
+cd / takes you to the root
+if you want to go to another folder go to the root then click tab twice to see the relative path and you can start typing and then hit tab to continue on your path 
